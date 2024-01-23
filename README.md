@@ -25,4 +25,15 @@ Information obtained from the dashboard:
 - Profit by Sub-Category based on the sum of profit.
 - Table illustrating total sales by sub-category and region.
 
+ Results from Dashboard
 
+- Total sales amount is 2.30M, with 38K units sold and a Total profit made is 286.40K.
+- Highest sub-category profits observed from 2016 to 2017, peaking around October to November.
+- Copiers emerge as the most profitable sub-category.
+- Technology category leads with 50.76% of the total profit, followed by Consumer.
+- Consumer segment dominates with 46.83% of the total profit.
+- Western region states exhibit the highest profit, closely trailed by Eastern region states, South, and Central regions.
+
+## Conclusion
+
+The PowerBI dashboard offers a comprehensive analysis of sales data, providing valuable insights for strategic decision-making. The dataset, spanning 2014 to 2017, encompasses diverse U.S. states, allowing for tailored visualizations based on geographic regions. Key highlights include peak sub-category profits observed in the latter years, with Copiers emerging as a standout category. Technology products significantly contribute to the overall profit share, particularly in the Western region. The dominance of Consumer segment profits and regional variations underscores the importance of targeted strategies. The interactive and customizable nature of the dashboard enhances its utility for extracting actionable business intelligence.
