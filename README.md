@@ -4,6 +4,8 @@
 
 This repository presents an intricately crafted interactive dashboard developed with PowerBI to represent the Sample Store data. The project rigorously analyzes trends and patterns within the dataset, leveraging PowerBI's advanced features for interactive charting and graphing. The primary goal is to augment data comprehension and enable the seamless communication of insights. The resultant comprehensive dashboard offers a visually engaging representation of key findings, empowering users to extract meaningful conclusions from the Sample Store data.
 
+![ss](Sample_store_db_ss.png)
+
 ## Dataset
 
 - The dataset contains 21 variables, including Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, and Profit.
