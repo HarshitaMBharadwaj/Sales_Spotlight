@@ -1,4 +1,4 @@
-# PowerBI Interactive Dashboard for Sample Store Data Analysis
+# SQL, PowerBI Interactive Dashboard for Sample Store Data Analysis
 
 ## Overview
 
