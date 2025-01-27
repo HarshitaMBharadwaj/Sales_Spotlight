@@ -2,7 +2,11 @@
 
 ## Overview
 
-This repository presents an intricately crafted interactive dashboard developed with PowerBI to represent the Sample Store data. The project rigorously analyzes trends and patterns within the dataset, leveraging PowerBI's advanced features for interactive charting and graphing. The primary goal is to augment data comprehension and enable the seamless communication of insights. The resultant comprehensive dashboard offers a visually engaging representation of key findings, empowering users to extract meaningful conclusions from the Sample Store data.
+This repository presents an intricately crafted interactive dashboard developed with PowerBI to represent the Sample Store data. SQL scripts are used for preprocessing, querying, and generating insights from the dataset before visualizing it in PowerBI. The project rigorously analyzes trends and patterns within the dataset, leveraging SQL for robust data manipulation and PowerBI's advanced features for interactive charting and graphing. The primary goal is to augment data comprehension and enable the seamless communication of insights.
+
+The resultant comprehensive dashboard offers a visually engaging representation of key findings, empowering users to extract meaningful conclusions from the Sample Store data.
+
+
 
 
 
@@ -19,6 +23,15 @@ This repository presents an intricately crafted interactive dashboard developed 
 - Products are categorized into Furniture, Office Supplies, and Technology.
 - Four regional classifications for U.S. states: Central, South, East, and West.
 - There are 17 items accounting for sub-categories.
+
+##SQL Integration 
+```sql
+     SELECT
+         SUM(Sales) AS Total_Sales,
+         SUM(Quantity) AS Total_Quantity,
+         SUM(Profit) AS Total_Profit
+     FROM sample_store_data;
+```
 
 ## Dashboard
 
